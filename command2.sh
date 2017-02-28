@@ -1,5 +1,6 @@
 
-# Try Manjon's
+# Try José V. Manjón, Pierrick Coupe, Antonio Buades, Vladimir Fonov, Louis Collins and
+# Montserrat Robles.  "Non-local MRI Upsampling", Medical Image Analysis, 14:784-792, 2010.
 
 ResampleImage 2 Input/IXI002-Guys-0828-T2_slice90_resampled.nii.gz IXI002-Guys-0828-T2_slice90_interpolated.nii.gz 150x256 1 4
 
